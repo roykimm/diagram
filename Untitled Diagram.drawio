@@ -1,46 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T05:16:06.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6j90beiX8ixME-pyU1KV" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T05:29:54.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="o-wfrxWlEDp2_ex21MMi" version="15.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="객실예약신청 메뉴 접속" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="247" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.007;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="360.0000000000002" y="304" as="sourcePoint" />
+            <mxPoint x="405" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="325" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="잔여객실 수&amp;nbsp;&lt;br&gt;확인 / 선택" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="272" y="289" width="110" height="91" as="geometry" />
+          <mxGeometry x="259" y="289" width="122" height="71" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="체크인 일자 및 숙박일수를 변경하여&amp;nbsp;&lt;br&gt;사용가능한 객실 찾기&lt;br&gt;or&amp;nbsp;&lt;br&gt;관리자에게 문의" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="427" y="302" width="220" height="65" as="geometry" />
+          <mxGeometry x="431" y="302" width="220" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry x="-0.3258" y="16" relative="1" as="geometry">
+            <mxPoint x="-3" y="-9" as="offset" />
+            <mxPoint x="297" y="515.4999999999998" as="sourcePoint" />
+            <mxPoint x="440" y="515.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="490" />
+              <mxPoint x="407" y="516" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="예약신청정보&lt;br&gt;유효성확인" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="464" width="180" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="신청 정보가" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="277" y="422" width="100" height="80" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="예약완료" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="241" y="545" width="159" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="267" y="557" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="487" y="442" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="신청기본정보 재입력&lt;br&gt;객실리스트 확인" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="441" y="495.5" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqr4RQYNexkkW-Fm0Jm1-0" value="&lt;h1&gt;&lt;span&gt;부경대학교 교육 연수원 신청 프로세스&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="41" y="10" width="770" height="50" as="geometry" />
@@ -51,11 +52,11 @@
         <mxCell id="rqr4RQYNexkkW-Fm0Jm1-2" value="화면에 들어가면 고객번호/명 에 접속한ID와 성명이 입력됨." style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="462" y="145" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-3" value="체크인일자, 숙박일수 입력" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="247" y="216" width="160" height="40" as="geometry" />
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-3" value="체크인일자, 숙박일수&lt;br&gt;등 예약 기본정보 입력" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="216" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rqr4RQYNexkkW-Fm0Jm1-4" value="체크인일자, 숙박일자를 입력 하면&amp;nbsp; 하단에 예약가능 객실이 표시&lt;br&gt;※ 체크인일자, 숙박일수, 예약자성명, 휴대전화번호는 필수입력" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="462" y="210" width="360" height="54" as="geometry" />
+          <mxGeometry x="464" y="199" width="360" height="54" as="geometry" />
         </mxCell>
         <mxCell id="rqr4RQYNexkkW-Fm0Jm1-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="rqr4RQYNexkkW-Fm0Jm1-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,13 +64,7 @@
             <mxPoint x="577" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqr4RQYNexkkW-Fm0Jm1-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="190" as="sourcePoint" />
-            <mxPoint x="327" y="287" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.136;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="rqr4RQYNexkkW-Fm0Jm1-3">
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.12;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="rqr4RQYNexkkW-Fm0Jm1-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="457" y="297" as="sourcePoint" />
             <mxPoint x="577" y="297" as="targetPoint" />
@@ -79,7 +74,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rqr4RQYNexkkW-Fm0Jm1-11" value="※ 객실선택은 다중으로 가능&lt;br&gt;※ 서로다른 연수시설은 동일 예약에 불가함.&lt;br&gt;예) 디럭스트윈 2, 컨벤션룸 1 =&amp;gt; 예약불가&lt;br&gt;예) 디럭스트윈 2, 온돌룸 1 =&amp;gt; 예약가능&amp;nbsp;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="8" y="297" width="243" height="75" as="geometry" />
+          <mxGeometry x="4" y="264" width="243" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-12" value="예약신청 버튼클릭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqr4RQYNexkkW-Fm0Jm1-3" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="rqr4RQYNexkkW-Fm0Jm1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="266" as="sourcePoint" />
+            <mxPoint x="330" y="299.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rqr4RQYNexkkW-Fm0Jm1-12" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370.0000000000001" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="440" as="sourcePoint" />
+            <mxPoint x="330" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-21" value="※ 예약객실은 한건 이상&lt;br&gt;※ 체크인일자, 숙박일수, 예약자성명, 휴대번호는 필수 입력" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="4" y="452" width="216" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-22" value="사용자 허가서 출력&amp;nbsp;&lt;br&gt;및&amp;nbsp;&lt;br&gt;예약취소" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241" y="636" width="159" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="rqr4RQYNexkkW-Fm0Jm1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="525.0000000000002" as="sourcePoint" />
+            <mxPoint x="330.5000000000002" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-24" value="※ 사용자 허가서출력은 상태가 예약확인 상태일 경우에만 출력이 가능. (예약확인은 담당자가 확인)" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="636" width="385" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rqr4RQYNexkkW-Fm0Jm1-25" value="※ 예약취소는 예약신청 상태일 경우에만 가능" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingLeft=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="690" width="385" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
